@@ -1,0 +1,1 @@
+// Added functions through js 
